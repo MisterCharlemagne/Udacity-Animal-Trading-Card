@@ -1,0 +1,30 @@
+/* add your CSS here */
+.funfact {
+  font-style:italic;
+}
+span {
+  font-weight:bold;
+}
+ul {
+  text-align: left;
+  padding-left:0;
+  list-style:none;
+}
+#div1 {
+  width:300px;
+  border:1px solid lightgray;
+  padding:15px;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.3);
+  justify-content: center;
+}
+#div2 {
+  border:1px solid lightgray;
+  padding: 5px;
+}
+#fox {
+  height: 300px;
+  width:300px;
+  margin-bottom:10px;
+}
+ 
+}
